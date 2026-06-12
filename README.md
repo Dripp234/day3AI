@@ -1,1 +1,1 @@
-# day3AI
+# AI ML INTERNSHIP
